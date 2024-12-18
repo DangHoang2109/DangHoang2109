@@ -20,8 +20,7 @@ Welcome to my GitHub! I'm a game designer and developer focused on creating enga
 ### 🔹 Featured Projects
 
 [![ArcheroLite](https://github-readme-stats.vercel.app/api/pin/?username=DangHoang2109&repo=GAMAPP_ArcheroLite&show_icons=true&theme=ambient_gradient&include_all_commits=True)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DangHoang2109/GAMAPP_ArcheroLite))
-[![Lucky Advanture Card Game](https://github-readme-stats.vercel.app/api/pin/?username=DangHoang2109&repo=LuckyFarmingCardGame&show_icons=true&theme=ambient_gradient&include_all_commits=True)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/DangHoang2109/GAMAPP_ArcheroLite](https://github.com/DangHoang2109/LuckyFarmingCardGame)))
+[![A Game I haven't named it](https://github-readme-stats.vercel.app/api/pin/?username=DangHoang2109&repo=Grid_TadleFantasy_Boardgame&show_icons=true&theme=ambient_gradient&include_all_commits=True)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/DangHoang2109/Grid_TadleFantasy_Boardgame](https://github.com/DangHoang2109/Grid_TadleFantasy_Boardgame)))
 
 [![Tomb_of_the_Mask](https://github-readme-stats.vercel.app/api/pin/?username=PhatLam1811&repo=Crosstech_Tomb_of_the_Mask&show_icons=true&theme=ambient_gradient&include_all_commits=True)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DangHoang2109/GAMAPP_ArcheroLite))
-
-[![A Game I haven't named it](https://github-readme-stats.vercel.app/api/pin/?username=DangHoang2109&repo=Grid_TadleFantasy_Boardgame&show_icons=true&theme=ambient_gradient&include_all_commits=True)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/DangHoang2109/Grid_TadleFantasy_Boardgame](https://github.com/DangHoang2109/Grid_TadleFantasy_Boardgame)))
+[![Lucky Advanture Card Game](https://github-readme-stats.vercel.app/api/pin/?username=DangHoang2109&repo=LuckyFarmingCardGame&show_icons=true&theme=ambient_gradient&include_all_commits=True)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/DangHoang2109/GAMAPP_ArcheroLite](https://github.com/DangHoang2109/LuckyFarmingCardGame)))
